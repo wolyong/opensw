@@ -1,3 +1,4 @@
+//주석을 추가합니다
 #include <stdio.h>
 
 void func1(int* p);
